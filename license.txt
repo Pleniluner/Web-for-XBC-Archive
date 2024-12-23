@@ -1,13 +1,15 @@
 /* Thomsoon.com - Multipurpose HTML5 and CSS Responsive theme
 -- version 1.0
 -- Copyright (c) 2015 Thomsoon.com
--- licensed under the MIT
---
+-- Licensed under the MIT License
 -- http://www.thomsoon.com
 --
+-- Modifications by Plenilune, 2024
+*/
 MIT License
 
-Copyright (c) [2024] [Plenilune]
+Copyright (c) 2015 Thomsoon.com
+Modifications Copyright (c) 2024 Plenilune
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
