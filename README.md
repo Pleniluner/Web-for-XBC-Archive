@@ -4,3 +4,6 @@
 [Tomasz Mazurczak Official website](https://www.thomsoon.com)
 <p>网站所使用素材版权由各素材原作者所有<p>
 <p>The copyright of the materials used on the website belongs to the original authors of each material.<p>
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
